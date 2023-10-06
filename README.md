@@ -1,9 +1,32 @@
-### Hi there 👋, I am a web developer with expertise in HTML, CSS, JavaScript, and PHP.
-- I am in 11th grade Pursuing Computer Science And working on building skills.
-- I am a web developer with expertise in HTML, CSS, JavaScript, and PHP.
-- I am passionate about building and maintaining dynamic, user-friendly websites.
+###  :man_technologist:  [ahmedeveloper](ahmedalibutt122@gmail.com)
 
-- I have developed a deep understanding of what it takes to create successful web projects
-- Feel free to reach out to me, I will be happy to connect with you!!
+👋 Hi, I'm Ahmed Ali, a passionate self-taught frontend developer from Pakistan 🚀. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+### About
+
+-  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
+-  **Languages :** HTML5, CSS3, JavaScript, PHP,
+-  **Hobbies :** Basketball :basketball: & Music :headphones:
+-  **Fact :** First solve the problem, then write the code :heart:
+-  **Contact me :** [ahmedali](ahmedalibutt122@gmail.com)
+
+
+### Languages and Tools
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+
+---
 
 
